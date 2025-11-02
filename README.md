@@ -1,12 +1,12 @@
 # Simple Hello World in Python
 
 ### Project Description
-A simple Python program that prints “Hello World” to the console. 
+A simple Python program that prints **“Hello, World”** to the console. 
 This is often the first step in learning Python programming and 
 demonstrates basic syntax and output functionality.
 
 ### Copyright Notice
-Copyright &copy; 2025 G.A. Pubudu Janith. All Rights Reserved.
+Copyright **&copy; 2025 G.A. Pubudu Janith.** All Rights Reserved.
 
 ### Prerequisite Software
 
